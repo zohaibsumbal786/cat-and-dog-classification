@@ -1,0 +1,20 @@
+# Ignore raw dataset images (too large for GitHub)
+dataset/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Model weights (if any)
+*.h5
+*.pkl
+*.pt
+*.pth
+
+# OS files
+.DS_Store
+Thumbs.db
